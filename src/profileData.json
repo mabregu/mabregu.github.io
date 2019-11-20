@@ -1,0 +1,83 @@
+{
+	"landing": {
+		"firstName": "N. Martin",
+		"lastName": "Abregú",
+		"phoneNumber": "1134591224",
+		"bio": "Por la mañana estoy en el Ministerio de Defensa y por la tarde en Cobus Group S.R.L. En ambas organizaciones hago Desarrollo Web. Las herramientas que habitualmente uso son PHP, Bootstrap, jQuery, MySQL y GIT. Más tarde curso el ultimo año de la Licenciatura en Gestión de la Información en la UNLZ con sede en Almagro. ",
+    		"email": "nmabregu@gmail.com",
+    		"linkedin": "https://www.linkedin.com/in/mabregu/",
+		"github": "https://github.com/mabregu"
+	},
+	"experience": [
+		{
+				"position": "Web Developer",
+				"organization": "Cobus Group SRL",
+				"aboutWork": "Developer Full Stack",
+				"fromDate": "Junio del 2018",
+				"toDate": "Actualmente"
+		},
+		{
+			"position": "Web Developer",
+			"organization": "Ministerio de Defensa",
+			"aboutWork": "Developer Full Stack",
+			"fromDate": "Junio del 2015",
+			"toDate": "Actualmente"
+		},
+	],
+	"education": [{
+			"university": "Universidad Nacional de Lomas de Zamora",
+			"degree": "Licenciatura en Gestión de la Información",
+			"gpa": "GPA",
+			"fromDate": "Enero del 2018",
+			"toDate": "Enero del 2020"
+		},
+	],
+	"skills": [{
+			"name": "PHP"
+		},
+		{
+			"name": ".NET"
+		},
+		{
+			"name": "JabaScript"
+		},
+		{
+			"name": "ReactJS"
+		},
+		{
+			"name": "Vue.JS"
+		},
+		{
+			"name": "MySQL"
+		},
+		{
+			"name": "SQL Server"
+		},
+		{
+			"name": "MongoDB"
+		},
+		{
+			"name": "Aws EC2"
+		},
+		{
+			"name": "Aws RDS"
+		},
+		{
+			"name": "Aws S3"
+		},
+	],
+	"interests": {
+		"paragraphOne": "Continuar aprendiendo las ultimas tecnologias",
+		"paragraphTwo": "Compartir el conocimiento y experiencias"
+	}/*,
+	"awards": [{
+			"awardDetail": "Your first award"
+		},
+		{
+			"awardDetail": "Your second award"
+		},
+    		...
+    		...
+    		...
+	]*/
+}
