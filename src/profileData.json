@@ -22,15 +22,14 @@
 			"aboutWork": "Developer Full Stack",
 			"fromDate": "Junio del 2015",
 			"toDate": "Actualmente"
-		},
+		}
 	],
 	"education": [{
 			"university": "Universidad Nacional de Lomas de Zamora",
 			"degree": "Licenciatura en Gestión de la Información",
-			"gpa": "GPA",
 			"fromDate": "Enero del 2018",
 			"toDate": "Enero del 2020"
-		},
+		}
 	],
 	"skills": [{
 			"name": "PHP"
@@ -39,7 +38,7 @@
 			"name": ".NET"
 		},
 		{
-			"name": "JabaScript"
+			"name": "JavaScript"
 		},
 		{
 			"name": "ReactJS"
@@ -64,20 +63,17 @@
 		},
 		{
 			"name": "Aws S3"
-		},
+		}
 	],
 	"interests": {
 		"paragraphOne": "Continuar aprendiendo las ultimas tecnologias",
 		"paragraphTwo": "Compartir el conocimiento y experiencias"
-	}/*,
+	},
 	"awards": [{
-			"awardDetail": "Your first award"
+			"awardDetail": "Mejor promedio de egreso UNLZ año 2019"
 		},
 		{
-			"awardDetail": "Your second award"
-		},
-    		...
-    		...
-    		...
-	]*/
+			"awardDetail": "Mejor SCD año 2017"
+		}
+	]
 }
